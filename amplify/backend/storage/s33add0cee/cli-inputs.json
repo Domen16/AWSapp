@@ -1,0 +1,12 @@
+{
+  "resourceName": "s33add0cee",
+  "policyUUID": "3add0cee",
+  "bucketName": "awsapp9955a7adb71c4d08b6d14f6fde1790c6",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
